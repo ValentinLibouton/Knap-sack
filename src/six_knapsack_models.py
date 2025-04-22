@@ -106,7 +106,6 @@ def solve_minKP_lp(c, s, demand):
 
 
 if __name__ == "__main__":
-    # Exemple de données (à remplacer par vos fichiers .dat)
     p = {1: 42, 2: 42, 3: 68, 4: 68, 5: 77, 6: 57, 7: 17, 8: 19, 9: 94, 10: 34}
     w = {1: 81, 2: 42, 3: 56, 4: 25, 5: 14, 6: 63, 7: 75, 8: 41, 9: 19, 10: 12}
     capacity = 214
